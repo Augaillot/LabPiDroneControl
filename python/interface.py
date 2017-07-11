@@ -14,6 +14,6 @@ def send_values(event):
 	x3 = document['poss3'].x
 	str = "X1 = " + x1
 	alert(str)
-	bus.write_byte_data(address, x1*100, 00)
+#	bus.write_byte_data(address, x1*100, 00)
 
 document["button0"].bind("click", send_values)

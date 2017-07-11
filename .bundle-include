@@ -2,7 +2,9 @@ _importlib
 browser
 browser.html
 javascript
-_sys
 smbus
 posix
 datetime
+fcntl
+ctypes
+_sys
