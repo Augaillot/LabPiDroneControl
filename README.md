@@ -1,7 +1,5 @@
-# quadcopterControl
-Cordova application to control multiwii quadcopter (by a raspberry pi)
-
-See http://www.instructables.com/id/The-Drone-Pi/ for more informations on our project
+# LabPiDrone
+Application Cordova pour le contrôle du drone
 
 ##Release APK
-You can find the current android apk in "CordovaApp-debug.apk"
+L'APK actuelle est disponible sous CordovaApp.apk
