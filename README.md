@@ -1,4 +1,4 @@
-# LabPiDrone
+# LabPiDroneControl
 Application Cordova pour le contrôle du drone
 
 ##Release APK
