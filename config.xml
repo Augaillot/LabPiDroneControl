@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="fr.reglisse44.quadcopter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>SAM Controller</name>
+<widget id="io.cordova.labpidroneapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PiDrone Controler</name>
+    <icon src="www/img/logo.png" />
     <preference name="Orientation" value="landscape" />
     <preference name="SplashScreen" value="screen" />
     <description>
@@ -11,5 +12,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
+    <engine name="android" spec="^6.2.3" />
+    <plugin name="SplashScreen" />
 </widget>

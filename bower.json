@@ -1,8 +1,9 @@
 {
-  "name": "quadcopterControl",
+  "name": "LabPiDroneApp",
   "version": "0.0.0",
   "authors": [
-    "Adam Le Bon <lebon.adam@gmail.com>"
+    "Adam Le Bon <lebon.adam@gmail.com>",
+    "Augustin Gaillot <augustingaillot@gmail.com"
   ],
   "license": "MIT",
   "ignore": [

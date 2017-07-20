@@ -1,5 +1,5 @@
 # LabPiDroneControl
-Application Cordova pour le contrôle du drone
+Application de contrôle du PiDrone
 
 ##Release APK
-L'APK actuelle est disponible sous CordovaApp.apk
+APK disponible dans le repo : "CordovaApp-debug.apk"
